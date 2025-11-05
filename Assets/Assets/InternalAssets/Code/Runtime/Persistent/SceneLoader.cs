@@ -8,12 +8,23 @@ public class SceneLoader : MonoBehaviourSingleton<SceneLoader>
     }
 
     public void LoadMainMenu() => LoadScene(SceneId.MainMenu);
-
-    public void LoadGameScene() => LoadScene(SceneId.GameScene);
+    public void LoadIndoorsScene() => LoadScene(SceneId.IndoorsScene);
+    public void LoadOutdoorsScene() => LoadScene(SceneId.OutdoorsScene);
+    public void LoadFieldScene() => LoadScene(SceneId.FieldScene);
+    public void LoadLabyrinthScene() => LoadScene(SceneId.LabyrinthScene);
+    public void LoadGraveyardScene() => LoadScene(SceneId.GraveyardScene);
+    public void LoadAlleyScene() => LoadScene(SceneId.AlleyScene);
+    public void LoadFairScene() => LoadScene(SceneId.FairScene);
 }
 
 public enum SceneId
 {
     MainMenu,
-    GameScene
+    IndoorsScene,
+    OutdoorsScene,
+    FieldScene,
+    LabyrinthScene,
+    GraveyardScene,
+    AlleyScene,
+    FairScene
 }
