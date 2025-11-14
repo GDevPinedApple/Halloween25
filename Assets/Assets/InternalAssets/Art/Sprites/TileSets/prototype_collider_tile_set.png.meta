@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e8474c408635a61419b3d7d75f67e0b2
+guid: 7070e9a4344c377429aa1fb378172b68
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3337038689812066966
-    second: pixil-frame-0_0
+      213: 4483504832982471387
+    second: pixil-frame-0 (1)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,7 +126,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: prototype_tile_set_0
+      name: prototype_collider_tile_set_0
       rect:
         serializedVersion: 2
         x: 0
@@ -141,14 +141,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e9f1c66ada6cd044b3129cf3cb5d298
-      internalID: 2041694931
+      spriteID: 386c258681345f44e909955a031ada49
+      internalID: 1761521145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: prototype_tile_set_1
+      name: prototype_collider_tile_set_1
       rect:
         serializedVersion: 2
         x: 12
@@ -163,14 +163,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43a4ad04c1f975f46b9b15b7a0372208
-      internalID: 2108167964
+      spriteID: 5713ae598649d9a408ab66b767bdaeb6
+      internalID: -874997129
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: prototype_tile_set_2
+      name: prototype_collider_tile_set_2
       rect:
         serializedVersion: 2
         x: 24
@@ -185,8 +185,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77e82656945e10d4bae2c2690dce221c
-      internalID: -1180914451
+      spriteID: 7d99f77b0ed634441b608e68ede7ad58
+      internalID: 1343636216
       vertices: []
       indices: 
       edges: []
@@ -195,7 +195,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 2adcda53033e9ab4694ab9fc78112abb
+    spriteID: 48afacbc3b5901543ba520d18c7eff1c
     internalID: 0
     vertices: []
     indices: 
@@ -207,9 +207,9 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":12.0,"y":12.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      prototype_tile_set_0: 2041694931
-      prototype_tile_set_1: 2108167964
-      prototype_tile_set_2: -1180914451
+      prototype_collider_tile_set_0: 1761521145
+      prototype_collider_tile_set_1: -874997129
+      prototype_collider_tile_set_2: 1343636216
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
